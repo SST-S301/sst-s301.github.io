@@ -1,0 +1,1 @@
+(self.webpackChunkroboapex_docs=self.webpackChunkroboapex_docs||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/roboapex-docs/blog/hello-world"}]}')}}]);
