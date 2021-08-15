@@ -30,13 +30,11 @@ module.exports = {
       items: [
         {
           position: 'left',
-          label: 'Docs',
-          to: '/docs',
+          label: 'Notes',
+          to: '/notes',
           items: baseDocPaths.map((e) => ({ to: `/${e.path}`, label: e.name }))
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
-        { to: '/projects', label: 'Projects', position: 'left' },
-        { to: '/achievements', label: 'Achievements', position: 'left' },
+        // { to: '/blog', label: 'Blog', position: 'left' },
         {
           type: "search",
           position: "right",
