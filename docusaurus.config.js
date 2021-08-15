@@ -101,7 +101,7 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/roboapex/roboapex-docs/edit/main/',
+            'https://github.com/theboi/SSTackExchange/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarCollapsible: true
@@ -109,7 +109,7 @@ module.exports = {
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/roboapex/roboapex-docs/edit/main/blog/',
+            'https://github.com/theboi/SSTackExchange/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
