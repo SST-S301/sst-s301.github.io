@@ -10,7 +10,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'roboapex',
+  organizationName: 'theboi',
   projectName: 'SSTackExchange',
   trailingSlash: true,
   themeConfig: {
