@@ -55,19 +55,19 @@ module.exports = {
           items: [
             {
               label: 'Instagram',
-              href: 'https://instagram.com/roboticsapex',
+              href: 'about:blank',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/roboapex',
+              href: 'https://github.com/theboi/SSTackExchange',
             },
             {
               label: 'Email',
-              href: 'mailto:sstroboapex@gmail.com',
+              href: 'about:blank',
             },
             {
               label: 'Discord',
-              href: 'https://discord.gg/zDB7KDrgbw',
+              href: 'about:blank',
             },
           ],
         },
@@ -76,7 +76,7 @@ module.exports = {
           items: [
             {
               label: 'SST',
-              href: 'https://www.sst.edu.sg/cca/robotics-apex',
+              href: 'https://www.sst.edu.sg',
             },
           ],
         },
