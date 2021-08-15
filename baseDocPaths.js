@@ -1,22 +1,18 @@
 module.exports = [
   {
-    path: 'lego',
-    name: 'Lego'
+    path: 's1',
+    name: 'Secondary 1'
   },
   {
-    path: 'makex',
-    name: 'MakeX'
+    path: 's2',
+    name: 'Secondary 2'
   },
   {
-    path: 'arduino',
-    name: 'Arduino'
+    path: 's3',
+    name: 'Secondary 3'
   },
   {
-    path: 'rpi',
-    name: 'Raspberry Pi'
-  },
-  {
-    path: 'fusion',
-    name: 'Fusion 360'
+    path: 's4',
+    name: 'Secondary 4'
   },
 ]

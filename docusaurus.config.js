@@ -5,20 +5,20 @@ require('dotenv').config()
 module.exports = {
   title: 'Robotics @APEX Documentation',
   tagline: 'Robotics is our passion! Efficient. Effective. Exemplary. 🔥',
-  url: 'https://roboapex.github.io',
-  baseUrl: '/roboapex-docs/',
+  url: 'https://theboi.github.io',
+  baseUrl: '/SSTackExchange/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'roboapex',
-  projectName: 'roboapex-docs',
+  projectName: 'SSTackExchange',
   trailingSlash: true,
   themeConfig: {
     hideableSidebar: true,
     announcementBar: {
       id: "announcement",
       content:
-        'This website is work-in-progress',
+        'Share this website with others to help us out!',
     },
     navbar: {
       hideOnScroll: true,
