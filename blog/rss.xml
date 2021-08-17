@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Robotics @APEX Documentation Blog</title>
-        <link>https://roboapex.github.io/roboapex-docs/blog</link>
+        <link>https://theboi.github.io/SSTackExchange/blog</link>
         <description>Robotics @APEX Documentation Blog</description>
         <lastBuildDate>Sun, 25 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Hello World!]]></title>
-            <link>https://roboapex.github.io/roboapex-docs/blog/hello-world</link>
+            <link>https://theboi.github.io/SSTackExchange/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello World!]]></description>
