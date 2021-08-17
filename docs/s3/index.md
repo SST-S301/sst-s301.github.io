@@ -1,6 +1,6 @@
 ---
-title: Introduction to MakeX
+title: Secondary 3
 description: Test file
-slug: /makex
+slug: /s3
 ---
 

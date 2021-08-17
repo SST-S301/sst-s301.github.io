@@ -1,6 +1,6 @@
 ---
-title: Introduction to Lego
+title: Secondary 4
 description: Test file
-slug: /lego
+slug: /s4
 ---
 

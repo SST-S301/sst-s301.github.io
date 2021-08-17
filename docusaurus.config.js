@@ -47,7 +47,7 @@ module.exports = {
           title: 'Docs',
           items: [
             { label: 'All', to: `/docs` },
-            ...baseDocPaths.map((e) => ({ label: e.name, to: `/${e.path}` }))
+            ...baseDocPaths.map((e) => ({ label: e.name, to: `/${e.path}` })),
           ]
         },
         {
@@ -106,11 +106,11 @@ module.exports = {
           showLastUpdateTime: true,
           sidebarCollapsible: true
         },
-        blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/theboi/SSTackExchange/edit/main/blog/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   editUrl:
+        //     'https://github.com/theboi/SSTackExchange/edit/main/blog/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

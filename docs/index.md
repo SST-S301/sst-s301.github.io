@@ -1,16 +1,10 @@
 ---
 title: Introduction
 description: Introduction to the Robotics @APEX documentation system
-slug: /docs
+slug: /notes
 sidebar_position: 1
 keywords:
-  - start
-  - intro
-  - introduction
-  - motivation
-  - usage
-  - robotics
-  - documentation
+  - notes
 ---
 
 ## Motivation

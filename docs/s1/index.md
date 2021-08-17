@@ -1,6 +1,6 @@
 ---
-title: Introduction to Arduino
+title: Secondary 1
 description: Test file
-slug: /arduino
+slug: /s1
 ---
 

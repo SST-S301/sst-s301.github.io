@@ -1,6 +1,6 @@
 ---
-title: Introduction to Raspberry Pi
+title: Secondary 2
 description: Test file
-slug: /rpi
+slug: /s2
 ---
 
