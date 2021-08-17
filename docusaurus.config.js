@@ -46,7 +46,7 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            { label: 'All', to: `/docs` },
+            { label: 'All', to: `/notes` },
             ...baseDocPaths.map((e) => ({ label: e.name, to: `/${e.path}` })),
           ]
         },

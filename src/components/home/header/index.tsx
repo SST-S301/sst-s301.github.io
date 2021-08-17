@@ -25,7 +25,7 @@ export default function HomeHeader() {
             justifyContent: "center",
           }}
         >
-          <ThemeButton path="/docs">Docs</ThemeButton>
+          <ThemeButton path="/notes">Docs</ThemeButton>
           <ThemeButton path="/blog">Blog</ThemeButton>
           <ThemeButton path="/projects">Projects</ThemeButton>
         </div>

@@ -27,7 +27,7 @@ Refer to the [Contributing](contributing) page to learn more about the conventio
 
 ### Article Documentation
 
-Members of the club, specifically the training or competition committee, would write articles, such as tutorials detailing "How to PID with Arduino", to be uploaded onto the documentation site https://roboapex.github.io/roboapex-docs/. The website sources articles from the GitHub repository at https://github.com/roboapex/roboapex-docs in the `/docs` directory and is built with Docusaurus and React. Even without knowledge of React, the majority of the site can still be maintained simply using Markdown. Markdown is the language used to write the articles and is relatively simple to learn. Upon updating the content in that repository, the website would be automatically updated with new content.
+Members of the club, specifically the training or competition committee, would write articles, such as tutorials detailing "How to PID with Arduino", to be uploaded onto the documentation site https://roboapex.github.io/roboapex-docs/. The website sources articles from the GitHub repository at https://github.com/roboapex/roboapex-docs in the `/notes` directory and is built with Docusaurus and React. Even without knowledge of React, the majority of the site can still be maintained simply using Markdown. Markdown is the language used to write the articles and is relatively simple to learn. Upon updating the content in that repository, the website would be automatically updated with new content.
 
 Refer to the [Contributing](contributing) page to learn more about the conventions in the documentation.
 

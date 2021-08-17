@@ -1,7 +1,7 @@
 ---
 title: Contributing
 description: Introduction to the Robotics @APEX documentation system
-slug: /docs/contributing
+slug: /notes/contributing
 sidebar_position: 2
 keywords:
   - start
@@ -42,5 +42,5 @@ Please be respectful in all contributions.
   npm i
   npm run start
   ```
-5. Open up the `/docs` directory.
+5. Open up the `/notes` directory.
 6. Start editing and contributing! (Note: changes are subject to PR approvals)
