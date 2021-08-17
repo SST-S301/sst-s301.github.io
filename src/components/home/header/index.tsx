@@ -26,8 +26,7 @@ export default function HomeHeader() {
           }}
         >
           <ThemeButton path="/notes">Docs</ThemeButton>
-          <ThemeButton path="/blog">Blog</ThemeButton>
-          <ThemeButton path="/projects">Projects</ThemeButton>
+          {/* <ThemeButton path="/blog">Blog</ThemeButton> */}
         </div>
       </div>
     </header>
