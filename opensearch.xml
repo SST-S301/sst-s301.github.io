@@ -4,8 +4,8 @@
   <ShortName>Robotics @APEX Documentation</ShortName>
   <Description>Search Robotics @APEX Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://theboi.github.io/SSTackExchange/img/favicon.png</Image>
-  <Url type="text/html" method="get" template="https://theboi.github.io/SSTackExchange/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://theboi.github.io/SSTackExchange/opensearch.xml" />
-  <moz:SearchForm>https://theboi.github.io/SSTackExchange/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://sst-s301.github.io/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://sst-s301.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://sst-s301.github.io/opensearch.xml" />
+  <moz:SearchForm>https://sst-s301.github.io/</moz:SearchForm>
 </OpenSearchDescription>

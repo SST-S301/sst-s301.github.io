@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://theboi.github.io/SSTackExchange/blog</id>
+    <id>https://sst-s301.github.io/blog</id>
     <title>Robotics @APEX Documentation Blog</title>
     <updated>2021-07-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://theboi.github.io/SSTackExchange/blog"/>
+    <link rel="alternate" href="https://sst-s301.github.io/blog"/>
     <subtitle>Robotics @APEX Documentation Blog</subtitle>
-    <icon>https://theboi.github.io/SSTackExchange/img/favicon.png</icon>
+    <icon>https://sst-s301.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>hello-world</id>
-        <link href="https://theboi.github.io/SSTackExchange/blog/hello-world"/>
+        <link href="https://sst-s301.github.io/blog/hello-world"/>
         <updated>2021-07-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello World!]]></summary>
     </entry>
