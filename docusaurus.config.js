@@ -5,13 +5,13 @@ require('dotenv').config()
 module.exports = {
   title: 'Robotics @APEX Documentation',
   tagline: 'Robotics is our passion! Efficient. Effective. Exemplary. 🔥',
-  url: 'https://theboi.github.io',
-  baseUrl: '/SSTackExchange/',
+  url: 'https://sst-s301.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'theboi',
-  projectName: 'SSTackExchange',
+  organizationName: 'sst-s301',
+  projectName: 'sst-s301.github.io',
   trailingSlash: true,
   themeConfig: {
     hideableSidebar: true,
@@ -59,7 +59,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/theboi/SSTackExchange',
+              href: 'https://github.com/sst-s301',
             },
             {
               label: 'Email',
@@ -101,7 +101,7 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/theboi/SSTackExchange/edit/main/',
+            'https://github.com/sst-s301/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarCollapsible: true
@@ -109,7 +109,7 @@ module.exports = {
         // blog: {
         //   showReadingTime: true,
         //   editUrl:
-        //     'https://github.com/theboi/SSTackExchange/edit/main/blog/',
+        //     'https://github.com/sst-s301/edit/main/blog/',
         // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
