@@ -11,8 +11,4 @@ module.exports = [
     path: 's3',
     name: 'Secondary 3'
   },
-  {
-    path: 's4',
-    name: 'Secondary 4'
-  },
 ]

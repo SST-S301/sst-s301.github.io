@@ -3,8 +3,8 @@ require('dotenv').config()
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Robotics @APEX Documentation',
-  tagline: 'Robotics is our passion! Efficient. Effective. Exemplary. 🔥',
+  title: 'SSTackExchange',
+  tagline: 'School notes for free! 📚',
   url: 'https://sst-s301.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -22,9 +22,9 @@ module.exports = {
     },
     navbar: {
       hideOnScroll: true,
-      title: 'Robotics @APEX',
+      title: 'SSTackExchange',
       logo: {
-        alt: 'Robotics @APEX Logo',
+        alt: 'SSTackExchange Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -44,14 +44,14 @@ module.exports = {
     footer: {
       links: [
         {
-          title: 'Docs',
+          title: 'Notes',
           items: [
             { label: 'All', to: `/notes` },
             ...baseDocPaths.map((e) => ({ label: e.name, to: `/${e.path}` })),
           ]
         },
         {
-          title: 'Robotics @APEX',
+          title: 'SSTackExchange',
           items: [
             {
               label: 'Instagram',
@@ -81,7 +81,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Robotics @APEX from the School of Science and Technology, Singapore.`,
+      copyright: `Copyright © ${new Date().getFullYear()} SSTackExchange from the School of Science and Technology, Singapore.`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/github'),

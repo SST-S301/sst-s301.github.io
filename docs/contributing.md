@@ -1,6 +1,6 @@
 ---
 title: Contributing
-description: Introduction to the Robotics @APEX documentation system
+description: Introduction to the SSTackExchange documentation system
 slug: /notes/contributing
 sidebar_position: 2
 keywords:
@@ -19,7 +19,7 @@ keywords:
 
 ### Obtaining Access
 
-For members of Robotics @APEX, request access to the [Robotics @APEX GitHub organisation, `roboapex`](https://github.com/roboapex) or inform an ExCo. Submissions of [pull requests](https://github.com/roboapex/roboapex-docs/pulls), [issues](https://github.com/roboapex/roboapex-docs/issues) or [discussion threads](https://github.com/roboapex/roboapex-docs/discussions) in the [roboapex-docs](https://github.com/roboapex/roboapex-docs/) GitHub repository are also welcomed.
+For members of SSTackExchange, request access to the [SSTackExchange GitHub organisation, `roboapex`](https://github.com/roboapex) or inform an ExCo. Submissions of [pull requests](https://github.com/roboapex/roboapex-docs/pulls), [issues](https://github.com/roboapex/roboapex-docs/issues) or [discussion threads](https://github.com/roboapex/roboapex-docs/discussions) in the [roboapex-docs](https://github.com/roboapex/roboapex-docs/) GitHub repository are also welcomed.
 
 :::info
 
