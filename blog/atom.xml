@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sst-s301.github.io/blog</id>
-    <title>Robotics @APEX Documentation Blog</title>
+    <title>SSTackExchange Blog</title>
     <updated>2021-07-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sst-s301.github.io/blog"/>
-    <subtitle>Robotics @APEX Documentation Blog</subtitle>
+    <subtitle>SSTackExchange Blog</subtitle>
     <icon>https://sst-s301.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
