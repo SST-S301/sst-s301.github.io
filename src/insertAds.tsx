@@ -1,8 +1,6 @@
 import ExecutionEnvironment from "@docusaurus/ExecutionEnvironment";
 
-const document = ExecutionEnvironment.canUseDOM ? window.document : undefined;
-
-if (document !== undefined) {
+if (ExecutionEnvironment.canUseDOM) {
   const ins = document.createElement("ins");
   ins["className"] = "adsbygoogle";
   ins.setAttribute("style", "display: block");
