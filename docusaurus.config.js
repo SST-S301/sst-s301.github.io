@@ -125,6 +125,6 @@ module.exports = {
     },
   ],
   clientModules: [
-    require.resolve('./insertAds.tsx'),
+    require.resolve('./src/insertAds.tsx'),
   ]
 };
