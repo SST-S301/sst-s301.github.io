@@ -123,9 +123,8 @@ module.exports = {
       async: true,
       'data-ad-client': 'ca-pub-5037854579642309'
     },
-    {
-      src: '../insertAds.js',
-      async: true
-    }
   ],
+  clientModules: [
+    require.resolve('./insertAds.tsx'),
+  ]
 };
