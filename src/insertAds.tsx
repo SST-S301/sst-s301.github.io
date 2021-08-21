@@ -12,4 +12,6 @@ if (ExecutionEnvironment.canUseDOM) {
   setTimeout(() => {
     document.querySelector("header")?.appendChild(ins);
   }, 1000);
+
+  (window["adsbygoogle"] = window["adsbygoogle"] || []).push({})
 }

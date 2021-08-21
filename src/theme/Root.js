@@ -10,11 +10,8 @@ export default function Root({ children }) {
       fetcher: (resource, init) => fetch(resource, init).then(res => res.json())
     }}>
       {children}
-      <BrowserOnly>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5037854579642309"
-          crossorigin="anonymous"></script>
-        {(window.adsbygoogle = window.adsbygoogle || []).push({})}
-      </BrowserOnly>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5037854579642309"
+        crossorigin="anonymous"></script>
     </SWRConfig>
   );
 }
