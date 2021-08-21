@@ -18,8 +18,7 @@ export default function Root({ children }) {
       </div>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5037854579642309"
         crossorigin="anonymous"></script>
-      
+      {(window.adsbygoogle = window.adsbygoogle || []).push({ })}
     </SWRConfig>
   );
 }
-//{(adsbygoogle = window.adsbygoogle || []).push({ })}
